@@ -8,3 +8,11 @@ This article helped me because it explains how pull requests are more than ju
 
 Also, I like that PRs leave a clear paper trail. It's clear what was changed, who made the change, and why it was accepted. Accountability is important for a class for real engineering teams because it makes inputs easier to check, boosts communication, and turns version control into a real workflow instead of just a backup system.
 
+## Reflection (From Fork)
+Wow, an article about PR to practice PR!
+
+I think PR's are a great ways to hear contributions and decide which ones are worth keeping and which ones are not (for their own purposes).
+
+\- *Syed Naqvi*
+
+
