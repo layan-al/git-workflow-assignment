@@ -15,4 +15,5 @@ I think PR's are a great ways to hear contributions and decide which ones are wo
 
 \- *Syed Naqvi*
 
-
+**By Richmond Agyenim-Boateng:**
+Great article choice! PRs are essential for team collaboration. I like how they make code reviews systematic and transparent.
